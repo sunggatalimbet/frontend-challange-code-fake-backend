@@ -15,7 +15,7 @@
       "description": "A durable mountain bike designed for rugged terrain and adventure seekers.",
       "price": 899.99,
       "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/71W3TtxlTyL._AC_UF1000,1000_QL80_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61n6KMCJNOL._AC_UF894,1000_QL80_.jpg",
       "rating": 4.5
     },
     {
@@ -24,7 +24,7 @@
       "description": "A high-performance skateboard with a sleek design and durable deck.",
       "price": 129.99,
       "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/71W3TtxlTyL._AC_UF1000,1000_QL80_.jpg",
+      "image": "https://m.media-amazon.com/images/I/81wfUzcO2yL._AC_UF894,1000_QL80_.jpg",
       "rating": 4.2
     },
     {
@@ -33,7 +33,7 @@
       "description": "A self-balancing electric hoverboard with LED lights and Bluetooth connectivity.",
       "price": 299.99,
       "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/71W3TtxlTyL._AC_UF1000,1000_QL80_.jpg",
+      "image": "https://m.media-amazon.com/images/I/51k99cGtcmL._AC_UF1000,1000_QL80_.jpg",
       "rating": 4.4
     },
     {
@@ -42,7 +42,7 @@
       "description": "A lightweight and durable snowboard designed for both beginners and professionals.",
       "price": 349.99,
       "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/71W3TtxlTyL._AC_UF1000,1000_QL80_.jpg",
+      "image": "https://m.media-amazon.com/images/I/51DOrXBYOSL._AC_UF350,350_QL80_.jpg",
       "rating": 4.6
     },
     {
@@ -51,7 +51,7 @@
       "description": "An eco-friendly and powerful electric motorcycle for urban riders.",
       "price": 2499.99,
       "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/71W3TtxlTyL._AC_UF1000,1000_QL80_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71Pi7WK5gXL._AC_UF1000,1000_QL80_.jpg",
       "rating": 4.8
     },
     {
@@ -60,7 +60,7 @@
       "description": "High-performance inline skates designed for speed and comfort.",
       "price": 149.99,
       "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/71W3TtxlTyL._AC_UF1000,1000_QL80_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71BTBwan55L._AC_UF1000,1000_QL80_.jpg",
       "rating": 4.3
     },
     {
@@ -69,7 +69,7 @@
       "description": "A sturdy BMX bike built for tricks and stunts with reinforced steel frame.",
       "price": 399.99,
       "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/71W3TtxlTyL._AC_UF1000,1000_QL80_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61i-lgQEnVL._AC_UF894,1000_QL80_.jpg",
       "rating": 4.5
     },
     {
@@ -78,7 +78,7 @@
       "description": "A stylish and smooth electric longboard with a powerful motor for long rides.",
       "price": 699.99,
       "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/71W3TtxlTyL._AC_UF1000,1000_QL80_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71mGuRjKGSL._AC_UF1000,1000_QL80_.jpg",
       "rating": 4.6
     },
     {
@@ -87,7 +87,7 @@
       "description": "A powerful dirt bike designed for off-road adventures and extreme sports enthusiasts.",
       "price": 1999.99,
       "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/71W3TtxlTyL._AC_UF1000,1000_QL80_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71h9Nlc0LcL._AC_UF1000,1000_QL80_.jpg",
       "rating": 4.7
     },
     {
@@ -96,7 +96,7 @@
       "description": "A lightweight and durable kick scooter perfect for city commutes.",
       "price": 199.99,
       "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/71W3TtxlTyL._AC_UF1000,1000_QL80_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71LW57gsddL._AC_UF1000,1000_QL80_.jpg",
       "rating": 4.3
     },
     {
@@ -105,7 +105,7 @@
       "description": "A smooth-riding road bicycle ideal for long-distance travel and speed.",
       "price": 1099.99,
       "currency": "USD",
-      "image": "https://m.media-amazon.com/images/I/71W3TtxlTyL._AC_UF1000,1000_QL80_.jpg",
+      "image": "https://m.media-amazon.com/images/I/61iFrhFxP9L._AC_UF894,1000_QL80_.jpg",
       "rating": 4.7
     }
   ]
