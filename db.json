@@ -155,32 +155,6 @@
 			"currency": "USD",
 			"image": "https://m.media-amazon.com/images/I/61iFrhFxP9L._AC_UF894,1000_QL80_.jpg",
 			"rating": 4.7
-		},
-		{
-			"id": 13,
-			"titleEn": "Folding Electric Bike EZ-Ride",
-			"titleRu": "Складной электрический велосипед EZ-Ride",
-			"titleKz": "Бүктелетін электрлі велосипед EZ-Ride",
-			"descriptionEn": "A compact and foldable electric bike, perfect for urban commuters and easy storage.",
-			"descriptionRu": "Компактный и складной электрический велосипед, идеально подходящий для городских поездок и удобного хранения.",
-			"descriptionKz": "Қалалық жүргіншілерге және оңай сақтауға арналған ыңғайлы бүктелетін электрлі велосипед.",
-			"price": 799.99,
-			"currency": "USD",
-			"image": "https://m.media-amazon.com/images/I/61Z7JZ7Z7ZL._AC_UF1000,1000_QL80_.jpg",
-			"rating": 4.6
-		},
-		{
-			"id": 14,
-			"titleEn": "Electric Unicycle AirWheel",
-			"titleRu": "Электрический моноколесо AirWheel",
-			"titleKz": "Электрлі моноколесо AirWheel",
-			"descriptionEn": "A self-balancing electric unicycle with a sleek design and long battery life.",
-			"descriptionRu": "Самобалансирующееся электрическое моноколесо с элегантным дизайном и длительным сроком службы батареи.",
-			"descriptionKz": "Әдемі дизайн мен ұзақ батареялық өмірі бар өздігінен теңшелетін электрлі моноколесо.",
-			"price": 599.99,
-			"currency": "USD",
-			"image": "https://m.media-amazon.com/images/I/71Z7JZ7Z7ZL._AC_UF1000,1000_QL80_.jpg",
-			"rating": 4.4
 		}
 	]
 }
